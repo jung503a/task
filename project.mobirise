@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-18_1531",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -22,7 +22,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "ZUMU",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -148,7 +148,7 @@
     },
     "page1.html": {
       "settings": {
-        "title": "Page 1",
+        "title": "遠紅外線",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -268,7 +268,7 @@
     },
     "page2.html": {
       "settings": {
-        "title": "Page 2",
+        "title": "PM2.5",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
