@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-18_1531",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -78,7 +78,9 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
@@ -87,9 +89,9 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
@@ -224,7 +226,9 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
@@ -233,9 +237,9 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
@@ -353,9 +357,9 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
