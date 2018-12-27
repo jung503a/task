@@ -46,6 +46,9 @@
 #menu-b.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
+#menu-b .mbr-navbar__section {
+  background: #2c2c2c;
+}
 #menu-b .mbr-navbar__hamburger {
   color: #ffffff;
 }
