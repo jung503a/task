@@ -111,7 +111,7 @@
               "linkInNewWindow": false,
               "name": "sun",
               "family": "MobiriseIcons",
-              "link": "index.html",
+              "link": "index.html#slider-0",
               "size": 0,
               "newWindow": false,
               "active": true
@@ -234,7 +234,7 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
+              "link": "index.html#slider-0",
               "size": 0,
               "linkInNewWindow": false,
               "name": "sun",
@@ -360,7 +360,7 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
+              "link": "index.html#slider-0",
               "size": 0,
               "linkInNewWindow": false,
               "name": "sun",
